@@ -1,0 +1,20 @@
+C:\Criacoes\Calculadora C#\Calculadora CSharp\Calculadora CSharp\bin\Debug\net6.0-windows\Calculadora CSharp.exe
+C:\Criacoes\Calculadora C#\Calculadora CSharp\Calculadora CSharp\bin\Debug\net6.0-windows\Calculadora CSharp.deps.json
+C:\Criacoes\Calculadora C#\Calculadora CSharp\Calculadora CSharp\bin\Debug\net6.0-windows\Calculadora CSharp.runtimeconfig.json
+C:\Criacoes\Calculadora C#\Calculadora CSharp\Calculadora CSharp\bin\Debug\net6.0-windows\Calculadora CSharp.dll
+C:\Criacoes\Calculadora C#\Calculadora CSharp\Calculadora CSharp\bin\Debug\net6.0-windows\Calculadora CSharp.pdb
+C:\Criacoes\Calculadora C#\Calculadora CSharp\Calculadora CSharp\obj\Debug\net6.0-windows\Calculadora CSharp.csproj.AssemblyReference.cache
+C:\Criacoes\Calculadora C#\Calculadora CSharp\Calculadora CSharp\obj\Debug\net6.0-windows\Calculadora_CSharp.Form1.resources
+C:\Criacoes\Calculadora C#\Calculadora CSharp\Calculadora CSharp\obj\Debug\net6.0-windows\Calculadora CSharp.csproj.GenerateResource.cache
+C:\Criacoes\Calculadora C#\Calculadora CSharp\Calculadora CSharp\obj\Debug\net6.0-windows\Calculadora CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Criacoes\Calculadora C#\Calculadora CSharp\Calculadora CSharp\obj\Debug\net6.0-windows\Calculadora CSharp.AssemblyInfoInputs.cache
+C:\Criacoes\Calculadora C#\Calculadora CSharp\Calculadora CSharp\obj\Debug\net6.0-windows\Calculadora CSharp.AssemblyInfo.cs
+C:\Criacoes\Calculadora C#\Calculadora CSharp\Calculadora CSharp\obj\Debug\net6.0-windows\Calculadora CSharp.csproj.CoreCompileInputs.cache
+C:\Criacoes\Calculadora C#\Calculadora CSharp\Calculadora CSharp\obj\Debug\net6.0-windows\Calculadora CSharp.dll
+C:\Criacoes\Calculadora C#\Calculadora CSharp\Calculadora CSharp\obj\Debug\net6.0-windows\refint\Calculadora CSharp.dll
+C:\Criacoes\Calculadora C#\Calculadora CSharp\Calculadora CSharp\obj\Debug\net6.0-windows\Calculadora CSharp.pdb
+C:\Criacoes\Calculadora C#\Calculadora CSharp\Calculadora CSharp\obj\Debug\net6.0-windows\Calculadora CSharp.genruntimeconfig.cache
+C:\Criacoes\Calculadora C#\Calculadora CSharp\Calculadora CSharp\obj\Debug\net6.0-windows\ref\Calculadora CSharp.dll
+C:\Criacoes\Calculadora C#\Calculadora CSharp\Calculadora CSharp\bin\Debug\net6.0-windows\pt-PT\Calculadora CSharp.resources.dll
+C:\Criacoes\Calculadora C#\Calculadora CSharp\Calculadora CSharp\obj\Debug\net6.0-windows\Calculadora_CSharp.Form1.pt-PT.resources
+C:\Criacoes\Calculadora C#\Calculadora CSharp\Calculadora CSharp\obj\Debug\net6.0-windows\pt-PT\Calculadora CSharp.resources.dll

@@ -1,0 +1,267 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="button0.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Roboto Cn, 48pt</value>
+  </data>
+  <data name="button0.Size" type="System.Drawing.Size, System.Drawing">
+    <value>222, 108</value>
+  </data>
+  <data name="button0.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="buttonDot.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Roboto Cn, 48pt</value>
+  </data>
+  <data name="buttonDot.Size" type="System.Drawing.Size, System.Drawing">
+    <value>108, 108</value>
+  </data>
+  <data name="buttonDot.Text" xml:space="preserve">
+    <value>.</value>
+  </data>
+  <data name="buttonEql.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Roboto Cn, 48pt</value>
+  </data>
+  <data name="buttonEql.Size" type="System.Drawing.Size, System.Drawing">
+    <value>108, 108</value>
+  </data>
+  <data name="buttonEql.Text" xml:space="preserve">
+    <value>=</value>
+  </data>
+  <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 517</value>
+  </data>
+  <data name="button1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>108, 108</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="button1.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="button1.Text" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="button2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>126, 517</value>
+  </data>
+  <data name="button2.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="button2.Text" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="button3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>240, 517</value>
+  </data>
+  <data name="button3.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="button3.Text" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="buttonAdd.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Roboto Cn, 48pt</value>
+  </data>
+  <data name="buttonAdd.Size" type="System.Drawing.Size, System.Drawing">
+    <value>108, 108</value>
+  </data>
+  <data name="buttonAdd.Text" xml:space="preserve">
+    <value>+</value>
+  </data>
+  <data name="button4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 403</value>
+  </data>
+  <data name="button4.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="button4.Text" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="button5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>126, 403</value>
+  </data>
+  <data name="button5.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="button5.Text" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="button6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>240, 403</value>
+  </data>
+  <data name="button6.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="button6.Text" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="buttonSub.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Roboto Cn, 48pt</value>
+  </data>
+  <data name="buttonSub.Location" type="System.Drawing.Point, System.Drawing">
+    <value>354, 403</value>
+  </data>
+  <data name="buttonSub.Size" type="System.Drawing.Size, System.Drawing">
+    <value>108, 108</value>
+  </data>
+  <data name="buttonSub.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="buttonSub.Text" xml:space="preserve">
+    <value>-</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="button7.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 289</value>
+  </data>
+  <data name="button7.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="button7.Text" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="button8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>126, 289</value>
+  </data>
+  <data name="button8.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="button8.Text" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="button9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>240, 289</value>
+  </data>
+  <data name="button9.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="button9.Text" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="buttonMul.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Roboto Cn, 48pt</value>
+  </data>
+  <data name="buttonMul.Size" type="System.Drawing.Size, System.Drawing">
+    <value>108, 108</value>
+  </data>
+  <data name="buttonMul.Text" xml:space="preserve">
+    <value>×</value>
+  </data>
+  <data name="buttonAC.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Roboto Cn, 46pt</value>
+  </data>
+  <data name="buttonAC.Size" type="System.Drawing.Size, System.Drawing">
+    <value>108, 108</value>
+  </data>
+  <data name="buttonAC.Text" xml:space="preserve">
+    <value>AC</value>
+  </data>
+  <data name="buttonNegPos.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Roboto Cn, 42pt</value>
+  </data>
+  <data name="buttonNegPos.Size" type="System.Drawing.Size, System.Drawing">
+    <value>108, 108</value>
+  </data>
+  <data name="buttonNegPos.Text" xml:space="preserve">
+    <value>+/-</value>
+  </data>
+  <data name="buttonPrc.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Roboto Cn, 48pt</value>
+  </data>
+  <data name="buttonPrc.Size" type="System.Drawing.Size, System.Drawing">
+    <value>108, 108</value>
+  </data>
+  <data name="buttonPrc.Text" xml:space="preserve">
+    <value>%</value>
+  </data>
+  <data name="buttonDiv.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Roboto Cn, 48pt</value>
+  </data>
+  <data name="buttonDiv.Size" type="System.Drawing.Size, System.Drawing">
+    <value>108, 108</value>
+  </data>
+  <data name="buttonDiv.Text" xml:space="preserve">
+    <value>÷</value>
+  </data>
+  <data name="textResult.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Roboto Cn, 24pt</value>
+  </data>
+  <data name="textResult.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 60</value>
+  </data>
+  <data name="textResult.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="textResult.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>Yes</value>
+  </data>
+  <data name="textResult.Size" type="System.Drawing.Size, System.Drawing">
+    <value>450, 108</value>
+  </data>
+  <data name="textResult.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+</root>
